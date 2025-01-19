@@ -391,6 +391,12 @@ img {
     margin: 6px 0;
 }
 
+.hamburger-button.fixed {
+    position: fixed; 
+    top: 20px; 
+    left: 350px; 
+}
+
 .mobile-menu {
     position: fixed;
     top: 0;
